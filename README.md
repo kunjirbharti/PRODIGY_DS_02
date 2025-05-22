@@ -11,11 +11,11 @@ Perform data cleaning and exploratory data analysis (EDA) on the Titanic dataset
 - Created new features such as FamilySize and IsAlone for better insight
 - Parsed and simplified complex fields like Name (to extract titles) and Cabin
 # Exploratory Data Analysis (EDA)
-- Univariate Analysis:
+- Univariate Analysis :
 Distribution of survival rate
 Age distribution by gender and class
 Fare distribution across classes
-- Bivariate & Multivariate Analysis:
+- Bivariate & Multivariate Analysis :
 Survival rate by gender, class, and embarkation port
 Correlation heatmap to identify relationships between features
 Boxplots and violin plots for visualizing relationships between numerical and categorical variables.
